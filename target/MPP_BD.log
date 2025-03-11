@@ -1,0 +1,106 @@
+11 Mar 2025 18:31:13,889 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:33:11,126 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:33:11,135 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:33:11,135 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:33:11,136 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:33:11,136 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:33:11,137 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:33:11,140 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:33:11,142 TRACE org.example.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 18:33:57,181 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:33:57,197 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:33:57,197 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:33:57,198 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:33:57,199 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:33:57,199 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:33:57,202 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:33:57,203 TRACE org.example.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 18:34:51,917 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:34:51,928 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:34:51,928 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:34:51,929 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:34:51,930 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:34:51,930 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:34:51,934 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:34:51,936 TRACE org.example.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 18:37:35,497 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {} 
+11 Mar 2025 18:37:35,506 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:37:35,506 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:37:35,506 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+11 Mar 2025 18:37:35,507 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:37:35,508 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:37:35,510 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 18:37:35,513 TRACE org.example.JdbcUtils 57 getConnection - Exit
+11 Mar 2025 18:37:59,287 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db} 
+11 Mar 2025 18:37:59,298 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:37:59,298 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:37:59,299 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db
+11 Mar 2025 18:37:59,299 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:37:59,300 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:37:59,736 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:41:04,006 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db} 
+11 Mar 2025 18:41:04,015 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:41:04,015 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:41:04,016 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db
+11 Mar 2025 18:41:04,016 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:41:04,016 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:41:04,320 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:41:04,337 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:41:04,338 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:41:04,352 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:41:04,352 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:54:30,892 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db} 
+11 Mar 2025 18:54:30,901 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:54:30,902 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:54:30,902 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db
+11 Mar 2025 18:54:30,902 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:54:30,902 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:54:31,293 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:54:31,311 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:54:31,312 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:54:31,324 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:54:31,324 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:54:31,325 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:54:31,326 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:54:31,327 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:54:31,327 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:54:31,332 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:54:31,332 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,195 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db} 
+11 Mar 2025 18:57:50,207 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,208 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:57:50,208 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db
+11 Mar 2025 18:57:50,209 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:57:50,209 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:57:50,515 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,535 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,536 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,556 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,556 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,560 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,560 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,566 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,566 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,568 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,568 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:57:50,574 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:57:50,575 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,281 INFO  org.example.CarsDBRepository 20 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db} 
+11 Mar 2025 18:59:49,288 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,289 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+11 Mar 2025 18:59:49,289 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/Users/user/Desktop/MPP/teme-lab-alesiopuf/lab3/cars.db
+11 Mar 2025 18:59:49,289 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+11 Mar 2025 18:59:49,290 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+11 Mar 2025 18:59:49,575 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,591 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,591 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,605 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,605 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,606 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,607 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,612 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,612 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,614 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,615 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
+11 Mar 2025 18:59:49,619 TRACE org.example.JdbcUtils 48 getConnection - Enter
+11 Mar 2025 18:59:49,620 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@649bec2e)
